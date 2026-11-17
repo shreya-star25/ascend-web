@@ -1,0 +1,7 @@
+dist
+node_modules
+.eslintrc.cjs
+package-lock.json
+playwright-report
+test-results
+
